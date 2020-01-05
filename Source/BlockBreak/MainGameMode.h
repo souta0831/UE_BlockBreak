@@ -13,5 +13,5 @@ UCLASS()
 class BLOCKBREAK_API AMainGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+public:
 };
